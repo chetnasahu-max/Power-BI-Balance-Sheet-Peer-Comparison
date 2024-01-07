@@ -1,9 +1,9 @@
 # Power-BI-Balance-Sheet-Peer-Comparison
-**Overview**
+#**Overview**
 
 This Power BI project provides a comprehensive peer comparison of balance sheets for four companies, highlighting key financial metrics and insights through interactive line graphs. The analysis focuses on crucial aspects such as the percentage of current assets, percentage of intangible assets, debt ratio, and other vital indicators.
 
-**Key Features**
+#**Key Features**
 
 **Peer Comparison Line Graphs**: Visualize the balance sheet metrics for four companies through intuitive line graphs, enabling a quick and easy understanding of their financial positions
 
